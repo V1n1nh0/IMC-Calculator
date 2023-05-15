@@ -1,0 +1,8 @@
+from PyQt5.QtWidgets import QApplication, QMainWindow, QLabel, QPushButton, QComboBox, QLineEdit, QWidget, QTableWidget, QTableWidgetItem, QHBoxLayout, QSizePolicy, QSpacerItem, QAbstractItemView
+from PyQt5.QtCore import Qt
+from PyQt5.QtGui import QPixmap, QColor
+from PyQt5 import QtGui
+import openpyxl
+from openpyxl import Workbook
+from openpyxl.utils import get_column_letter
+import os
